@@ -69,6 +69,9 @@ body {
 .bigScreen {
     display: none;
 }
+.logo{
+    width: 150px;
+}
 
 @media (min-width:768px) {
     #crossIcon {
@@ -88,5 +91,9 @@ body {
 
     .body {
         background-image: url('https://assets.ccbp.in/frontend/intermediate-rwd/landing-page-lg-bg.png');
+        background-size: cover;
+    }
+    .logo{
+        width: 200px;
     }
 }
