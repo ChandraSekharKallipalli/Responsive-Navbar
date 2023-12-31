@@ -73,7 +73,7 @@ body {
     width: 150px;
 }
 
-@media (min-width:768px) {
+@media (min-width:900px) {
     #crossIcon {
         display: none;
     }
